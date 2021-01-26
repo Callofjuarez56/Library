@@ -1,0 +1,5 @@
+C:\Users\olega\source\repos\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\olega\source\repos\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\olega\source\repos\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\olega\source\repos\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\olega\source\repos\MyLibrary\obj\Debug\MyLibrary.pdb
